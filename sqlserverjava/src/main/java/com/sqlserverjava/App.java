@@ -2,6 +2,7 @@
 // 1.) build the project 
 //     $ mvn package
 // 2.) Run the package
+//     $ cd sqlserverjava
 //     $ mvn -q exec:java "-Dexec.mainClass=com.<package_name>.App"
 
 package com.sqlserverjava;
