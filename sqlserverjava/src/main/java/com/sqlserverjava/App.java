@@ -1,14 +1,13 @@
-package com.sqlserverjava;
-
-import java.sql.Connection;
-import java.sql.DriverManager;
-
-
 // To test:
 // 1.) build the project 
 //     $ mvn package
 // 2.) Run the package
 //     $ mvn -q exec:java "-Dexec.mainClass=com.<package_name>.App"
+
+package com.sqlserverjava;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
 
 public class App {
 
